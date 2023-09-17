@@ -4,7 +4,7 @@
 \alias{lib_summary}
 \title{R Library Summary}
 \usage{
-lib_summary()
+lib_summary(sizes = FALSE)
 }
 \value{
 A \code{data.frame} containing the counts of pacakgages in each of the
