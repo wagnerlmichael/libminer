@@ -1,8 +1,11 @@
 #' R Library Summary
 #'
-#' Provide a brief summary of the package libararies on your machine.
+#' Provide a brief summary of the package libraries on your machine.
 #'
-#' @return A `data.frame` containing the counts of pacakgages in each of the
+#' @param sizes logical indicating whether or not to calculate library
+#' sizes. Default `FALSE`
+#'
+#' @return A `data.frame` containing the counts of packages in each of the
 #' user's libraries
 #'
 #' @export
