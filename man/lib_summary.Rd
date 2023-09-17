@@ -6,6 +6,13 @@
 \usage{
 lib_summary()
 }
+\value{
+A \code{data.frame} containing the counts of pacakgages in each of the
+user's libraries
+}
 \description{
 Provide a brief summary of the package libararies on your machine.
+}
+\examples{
+lib_summary()
 }
